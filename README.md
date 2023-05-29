@@ -1,1 +1,1 @@
-# SI_2023_lab2_216043
+# Jovan Atanasov, 216043
